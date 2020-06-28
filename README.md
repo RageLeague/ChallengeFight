@@ -40,9 +40,9 @@ With the official mod update, you can read about how to set up mods [here](https
 4. The `modinit.lua` file should be under `.../mods/[insert_repo_name_here]`.
 5. Volia! Now the mod should work.
 
-# Updates
+## Updates
 
-## Update 1
+### Update 1
 
 * Added a new challenge: Enhanced Automech Boss. (Defeat the Automech Boss. Except this time, he summons an Autodog every turn that protects him.)
 * Added icons to the challenge insurance condition and the disruptor summoner condition.
