@@ -4,7 +4,7 @@ return {
     desc = "Nature is fighting back! Defeat two Grawkits and two Krills.",
     enemies = {"GRAWKIT", "LUMINTHIAN", "GRAWKIT", "LUMINTHIAN"},
     reward = {
-        {card = "yotelope_horns"},
+        {card = "yote_horn"},
         {money = true}
     }
 }
