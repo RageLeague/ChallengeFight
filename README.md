@@ -6,8 +6,6 @@ A mod that allows you to attempt extremely challenge battles, potentially gainin
 
 This mod adds a couple challenge optional battles. These battles are extremely difficult, and should only be attempted by experienced players.
 
-For example, one battle requires the player to fight both the Shroog and the Flead Queen at the same time.
-
 These challenges can be attempted at any time you can talk to a working bartender at a tavern. That includes Fssh, Hebbel, Sweet Moreef, and the bartender at the Gutted Yote.
 
 Any characters spawned during these challenges are isolated. They will not affect any existing characters in the main campaign, and will not appear in the main campaign.
@@ -18,8 +16,10 @@ For more information, talk to one of the bartenders and ask about them.
 
 ## List of challenges
 
-Currently, there are 10 challenges that the player can attempt.
+Currently, there are 12 challenges that the player can attempt.
 
+* Enhanced Automech Boss: Defeat the Automech Boss. Except this time, he summons an Autodog every turn that protects him.
+* Defeat each of every generic, non-promoted npc class. And Kalandra, because reasons. The max team size of the opponent is reduced to 3.
 * Four Clobbers: Defeat 4 Bogger Clobbers.
 * Four Luminari: Defeat 4 Cult of Hesh Luminari.
 * Mark of the Assassin: Defeat Zyn, Hanbi, and Threekwa.
@@ -42,7 +42,12 @@ With the official mod update, you can read about how to set up mods [here](https
 
 ## Updates
 
-### Update 1
+### 0.2.0
+
+* Added a new challenge: Everyone's here. (Defeat each of every generic, non-promoted npc class. And Kalandra, because reasons. The max team size of the opponent is reduced to 3.)
+* Added workshop support.
+
+### 0.1.0
 
 * Added a new challenge: Enhanced Automech Boss. (Defeat the Automech Boss. Except this time, he summons an Autodog every turn that protects him.)
 * Added icons to the challenge insurance condition and the disruptor summoner condition.

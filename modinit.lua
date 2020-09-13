@@ -55,4 +55,11 @@ end
 return {
     OnLoad = OnLoad,
     alias = "ChallengeFight",
+    title = "Challenge Fights",
+    description = [[This mod adds a couple challenge optional battles. These battles are extremely difficult, and should only be attempted by experienced players.
+These challenges can be attempted at any time you can talk to a working bartender at a tavern. That includes Fssh, Hebbel, Sweet Moreef, and the bartender at the Gutted Yote.
+Any characters spawned during these challenges are isolated. They will not affect any existing characters in the main campaign, and will not appear in the main campaign.
+Once you defeat a challenge, you will be awarded with decent amount of shills, and an item card from the base game. In the future, this might be changed so that custom cards are awarded to the player.
+For more information, talk to one of the bartenders and ask about them.]],
+    previewImagePath = "preview.png",
 }
