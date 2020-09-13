@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgctxt "BATTLE_FEATURE.CHALLENGE_INSURANCE.DESC"
+msgid ""
+"Prevents this fighter from being killed.\n"
+"If this fighter takes lethal damage, prevent that damage and force them to flee."
+msgstr ""
+"防止这个角色被杀死。\n"
+"如果这个角色受到致命伤害，防止那个伤害，并强迫他逃跑。"
+
+#: BATTLE_FEATURE.CHALLENGE_INSURANCE.NAME
+msgctxt "BATTLE_FEATURE.CHALLENGE_INSURANCE.NAME"
+msgid "Challenge Insurance"
+msgstr "挑战保险"
+
+#: BATTLE_FEATURE.DISRUPTOR_SUMMONER.DESC
+msgctxt "BATTLE_FEATURE.DISRUPTOR_SUMMONER.DESC"
+msgid "At the end of this fighter's turn, summon an Autodog with {disruptor_pylon} if able."
+msgstr "在此角色回合结束前，如果可以的话，召唤一个带{disruptor_pylon}的自动狗。"
+
+#: BATTLE_FEATURE.DISRUPTOR_SUMMONER.NAME
+msgctxt "BATTLE_FEATURE.DISRUPTOR_SUMMONER.NAME"
+msgid "Disruptor Summoner"
+msgstr "干扰塔召唤"
+
+#: CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.DESC
+msgctxt "CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.DESC"
+msgid "Defeat the Automech Boss. Except this time, he summons an Autodog every turn that protects him."
+msgstr "打败机器人Boss，但是这次，他会每回合召唤一个自动狗保护他。"
+
+#: CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.TITLE
+msgctxt "CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.TITLE"
+msgid "Enhanced Automech Boss"
+msgstr "增强机器人Boss"
+
+#: CHALLENGE_DEF.EVERYONES_HERE.DESC
+msgctxt "CHALLENGE_DEF.EVERYONES_HERE.DESC"
+msgid "Defeat each of every generic, non-promoted npc class. And Kalandra, because reasons. The max team size of the opponent is reduced to 3."
+msgstr "打败所有一般，非升级的NPC类别。和卡兰卓，因为原因。对手的最大人数减少到3，因为平衡原因。"
+
+#: CHALLENGE_DEF.EVERYONES_HERE.TITLE
+msgctxt "CHALLENGE_DEF.EVERYONES_HERE.TITLE"
+msgid "Everyone's Here"
+msgstr "全体就位"
+
+#: CHALLENGE_DEF.FOUR_CLOBBERS.DESC
+msgctxt "CHALLENGE_DEF.FOUR_CLOBBERS.DESC"
+msgid "Four heshing Clobbers. Best consumed with high prestige."
+msgstr "四个黑石的痛击者。高声望时食用最佳。"
+
+#: CHALLENGE_DEF.FOUR_CLOBBERS.TITLE
+msgctxt "CHALLENGE_DEF.FOUR_CLOBBERS.TITLE"
+msgid "Four Clobbers"
+msgstr "四个痛击者"
+
+#: CHALLENGE_DEF.FOUR_LUMINARI.DESC
+msgctxt "CHALLENGE_DEF.FOUR_LUMINARI.DESC"
+msgid "Four heshing Luminari. Day[9]'s nightmare. This challenge is actually surprisingly simple."
+msgstr "四个黑石的教众。Day[9]的恶梦。这个挑战其实简单的很。"
+
+#: CHALLENGE_DEF.FOUR_LUMINARI.TITLE
+msgctxt "CHALLENGE_DEF.FOUR_LUMINARI.TITLE"
+msgid "Four Luminari"
+msgstr "四个教众"
+
+#: CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.DESC
+msgctxt "CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.DESC"
+msgid ""
+"There's no ninjas in Griftlands, so Mark of the Ninja won't work. Anyway, defeat 3 assassins, sans Eonwe because she doesn't do anything against not-Rook.\n"
+"Also, the two Jakes assassins are really cursed. Be prepared."
+msgstr "欺诈之地没有忍者，所以不能用忍者之印。无论怎么说，打败三个刺客，除了衣杨威因为她对車以外的其他人没有任何作用。"
+
+#: CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.TITLE
+msgctxt "CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.TITLE"
+msgid "Mark of the Assassin"
+msgstr "刺客之印"
+
+#: CHALLENGE_DEF.MONSTER_KAREN.DESC
+msgctxt "CHALLENGE_DEF.MONSTER_KAREN.DESC"
+msgid "You think Karens are bad? Imagine having to fight monster Karens that constantly spawn kids. Defeat both the Flead Queen and the Shroog!"
+msgstr "您以为一般的大妈很恶劣？想想如果和能生成崽子的怪兽大妈打会是什么个局面。打败巨蚤王和石洛格！"
+
+#: CHALLENGE_DEF.MONSTER_KAREN.TITLE
+msgctxt "CHALLENGE_DEF.MONSTER_KAREN.TITLE"
+msgid "Monster Karen"
+msgstr "怪兽大妈"
+
+#: CHALLENGE_DEF.NADAN_VENDETTA.DESC
+msgctxt "CHALLENGE_DEF.NADAN_VENDETTA.DESC"
+msgid "Defeat Nadan and his goons as Nadan seeks out for you blood."
+msgstr "在纳丹要你命之前，打败纳丹和他的手下。"
+
+#: CHALLENGE_DEF.NADAN_VENDETTA.TITLE
+msgctxt "CHALLENGE_DEF.NADAN_VENDETTA.TITLE"
+msgid "Nadan's Vendetta"
+msgstr "纳丹之仇"
+
+#: CHALLENGE_DEF.NATURE_UPRISING.DESC
+msgctxt "CHALLENGE_DEF.NATURE_UPRISING.DESC"
+msgid "Nature is fighting back! Defeat two Grawkits and two Krills."
+msgstr "打败两个格洛克特和两个克利（声译的什么鬼玩意啊）。"
+
+#: CHALLENGE_DEF.NATURE_UPRISING.TITLE
+msgctxt "CHALLENGE_DEF.NATURE_UPRISING.TITLE"
+msgid "Nature's Uprising"
+msgstr "大自然的起义"
+
+#: CHALLENGE_DEF.OMNI_KASHIO.DESC
+msgctxt "CHALLENGE_DEF.OMNI_KASHIO.DESC"
+msgid "Defeat Kashio, by herself, except she has every artifact. Extremely challenging."
+msgstr "打败凯石傲一个人，但是她有所有的装备。非常困难。"
+
+#: CHALLENGE_DEF.OMNI_KASHIO.TITLE
+msgctxt "CHALLENGE_DEF.OMNI_KASHIO.TITLE"
+msgid "Omni-Kashio"
+msgstr "万能凯石傲"
+
+#: CHALLENGE_DEF.UNLIKELY_ALLIANCE.DESC
+msgctxt "CHALLENGE_DEF.UNLIKELY_ALLIANCE.DESC"
+msgid "The Barons and the Rise have decided to put aside their difference and work together. To defeat you. Defeat both leaders and lieutenants!"
+msgstr "我感觉这个好像可以用一个成语表述的，但是我语文不好。打败爵士和起义军的首领和他们的中尉！"
+
+#: CHALLENGE_DEF.UNLIKELY_ALLIANCE.TITLE
+msgctxt "CHALLENGE_DEF.UNLIKELY_ALLIANCE.TITLE"
+msgid "Unlikely Alliance"
+msgstr "不太可能的联盟"
+
+#: CHALLENGE_DEF.WORKERS_UPRISING.DESC
+msgctxt "CHALLENGE_DEF.WORKERS_UPRISING.DESC"
+msgid "The proletariat have risen! Put an end to this delusion. Defeat 10 Laborers and 10 Heavy Laborers."
+msgstr "不知道为什么，这个游戏没有农民，所以...就只有工人起义。没关系，打败10个劳工和10个重体力工。"
+
+#: CHALLENGE_DEF.WORKERS_UPRISING.TITLE
+msgctxt "CHALLENGE_DEF.WORKERS_UPRISING.TITLE"
+msgid "Workers' Uprising"
+msgstr "工农起义"
+
+#: CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.DESC
+msgctxt "CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.DESC"
+msgid "The Ollowano dynasty is out for your blood! Defeat Oolo, Foolo, and two Battle Oshnus."
+msgstr "奥洛瓦诺/乌洛瓦娜(什么鬼玩意，最起码名字要一直嘛)家族要你的脑袋！打败乌洛，斧洛，和两个战斗蜗牛。"
+
+#: CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.TITLE
+msgctxt "CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.TITLE"
+msgid "Wrath of the Dynasty"
+msgstr "家族之怒"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_ASK
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_ASK"
+msgid ""
+"player:\n"
+"I want to know what I'm getting into..."
+msgstr ""
+"player:\n"
+"我想知道这个到底是个什么玩意..."
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_BACK_OFF
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_BACK_OFF"
+msgid ""
+"agent:\n"
+"Understandable. You should be extremely prepared to even attempt this challenge."
+msgstr ""
+"agent:\n"
+"这很好理解。你就算只是尝试这个挑战的话都要准备充分。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT"
+msgid ""
+"player:\n"
+"What should we do today?"
+msgstr ""
+"player:\n"
+"我今天应该做什么？"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_LOSE_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_LOSE_CHALLENGE"
+msgid ""
+"player:\n"
+"!left\n"
+"agent:\n"
+"!right\n"
+"Too bad. Better luck next time!\n"
+"To prevent cheesing experience, you can only attempt this challenge once per day/night.\n"
+"Try again later."
+msgstr ""
+"player:\n"
+"!left\n"
+"agent:\n"
+"!right\n"
+"真可惜。下次再来！\n"
+"为了防止你刷经验，你一个时间段只能尝试这个挑战一次。\n"
+"待会儿再回来。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_1CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_1CHALLENGE_INFO"
+msgid ""
+"player:\n"
+"What are these challenges?\n"
+"agent:\n"
+"These are difficult and/or interesting fights added as an optional challenge.\n"
+"They are designed for experienced players who can easily clear prestige 16.\n"
+"You must have a strong deck with a strong synergy to defeat those challenges."
+msgstr ""
+"player:\n"
+"这些都是什么挑战？\n"
+"agent:\n"
+"这些挑战都是可选的困难，或者很有意思的战斗。\n"
+"这些挑战是为了那些可以很随意通过声望6的玩家设计出来的。\n"
+"要想通过这些挑战，你必须要有很强的，配合力好的牌组。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_2CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_2CHALLENGE_INFO"
+msgid ""
+"player:\n"
+"What's in it for me?\n"
+"agent:\n"
+"Once you complete a challenge, you will be rewarded with shills, cards, and/or grafts to empower your deck.\n"
+"Plus, it's a bragging right.\n"
+"However, you will not be rewarded with normal post-fight rewards."
+msgstr ""
+"player:\n"
+"我为什么要通过这些挑战？\n"
+"agent:\n"
+"每当你通过一个挑战时，你可以获得金钱，卡牌，或者移植物来加强你的牌组。\n"
+"而且，你可以向其他人炫耀。\n"
+"然而，你不会获得一般的战斗奖励。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_3CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_3CHALLENGE_INFO"
+msgid ""
+"player:\n"
+"What can I bring with me to complete these challenges?\n"
+"agent:\n"
+"You can bring your entire battle deck, including items, as well as your grafts, boons and banes.\n"
+"However, all battles are no bystander battles, so you can't hire mercenaries or bring your friends to help you fight.\n"
+"Pets are fine, though."
+msgstr ""
+"player:\n"
+"我可以带什么来尝试这些挑战？\n"
+"agent:\n"
+"你可以带入你整个战斗牌组，包括所有的物品，移植物，恩赐和诅咒。\n"
+"但是，所有的战斗都是不允许旁观者的，所有你不能雇佣雇佣兵来帮你战斗。\n"
+"宠物倒是可以带的。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_4CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_4CHALLENGE_INFO"
+msgid ""
+"player:\n"
+"What are the repercussions to these challenges?\n"
+"agent:\n"
+"You are unable to die from these battles, since they are optional.\n"
+"If you are about to die, the last hit will be negated, and you will be forced to flee.\n"
+"You can also flee the battle after turn 3, like normal.\n"
+"Fleeing might cause your allies to dislike you, but it shouldn't matter that much, since they will retire anyway.\n"
+"Any enemy or ally who appear in this fight that does not die will retire.\n"
+"Since the battles are isolated, you can kill if you want without consequences.\n"
+"Every enemy and ally are spawned during the battle, even unique ones such as Oolo or Nadan.\n"
+"Killing them will have no consequences on the real ones. Probably.\n"
+"There's no reward for killing, though.\n"
+"However, you will sustain any health loss(or gain, if you healed during battle) from the fight."
+msgstr ""
+"player:\n"
+"这些挑战有什么后果？\n"
+"agent:\n"
+"你在这些战斗中不可能死，因为这些战斗都是可选的。\n"
+"如果你会死，最后的致命一击会被忽略掉，然后你会被强迫逃跑。\n"
+"你也可以在第三回合之后逃跑，和正常情况下一样。\n"
+"逃跑可能导致你的盟友讨厌你，但是应该没太大关系，因为他们会马上退休。\n"
+"所有活着的敌人和盟友会退休，意思是你在这一轮回中再也不可能再见到他们。\n"
+"因为这些战斗都是四下无人，所以你可以随便杀人。\n"
+"所有在这个战斗中出现的敌人和盟友都是就地生成的，即便是像乌洛和纳丹一样独一的角色。\n"
+"将他们杀死对真正的人没有影响。应该吧。\n"
+"杀人没有任何奖励。\n"
+"然而，你在这个战斗中的任何生命值降低（或增加）都会保留。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_5CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_5CHALLENGE_INFO"
+msgid ""
+"player:\n"
+"When can I attempt these challenges?\n"
+"agent:\n"
+"You can attempt these challenges any time you can talk to a working bartender.\n"
+"Don't ever think about attempting these challenges when you have all the broken grafts you get from the final encounter.\n"
+"You can attempt each challenge once each day/night, to prevent cheesing experience.\n"
+"Once you complete a challenge, you cannot attempt it again."
+msgstr ""
+"player:\n"
+"我什么时候可以尝试这个挑战？\n"
+"agent:\n"
+"当你可以和一个正在工作的酒保交流时，你可以尝试这些挑战。\n"
+"别想在最后你有各种各样变态的移植物时尝试这个挑战。\n"
+"你在每个时间段可以尝试仅仅一次，为了防止你刷经验。\n"
+"当你成功尝试一个挑战之后，你不能再尝试这个挑战。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_SELECT_FIGHT"
+msgid ""
+"agent:\n"
+"Get ready!"
+msgstr ""
+"agent:\n"
+"准备！"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_WIN_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_WIN_CHALLENGE"
+msgid ""
+"agent:\n"
+"Well done! Here are your rewards for completing this challenge."
+msgstr ""
+"agent:\n"
+"干得漂亮！这是给你的奖励。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_BACK_OFF
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_BACK_OFF"
+msgid "Never mind"
+msgstr "算了"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_DO_FIGHT"
+msgid "Attempt a challenge..."
+msgstr "尝试一个挑战..."
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_FIGHT"
+msgid "Fight!"
+msgstr "开始！"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_NEXT_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_NEXT_PAGE"
+msgid "Next page..."
+msgstr "后一页..."
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_PREV_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_PREV_PAGE"
+msgid "Previous page..."
+msgstr "前一页..."
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_1CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_1CHALLENGE_INFO"
+msgid "Ask about the challenges"
+msgstr "询问关于这些挑战的信息"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_2CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_2CHALLENGE_INFO"
+msgid "Ask about the rewards"
+msgstr "询问奖励"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_3CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_3CHALLENGE_INFO"
+msgid "Ask about what you can bring to the challenge"
+msgstr "询问你可以带什么来挑战"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_4CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_4CHALLENGE_INFO"
+msgid "Ask about the repercussions"
+msgstr "询问挑战后的后果"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_5CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_5CHALLENGE_INFO"
+msgid "Ask about the opportunities you can attempt these challenges"
+msgstr "询问你什么时候可以尝试这些挑战"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_SELECT_FIGHT"
+msgid "Challenge Battle: {1}"
+msgstr "战斗挑战：{1}"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_ATTEMPTED_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_ATTEMPTED_CHALLENGE"
+msgid "You recently attempted this challenge and cannot attempt this again"
+msgstr "你最近才挑战过一次，所以你现在暂时不能再挑战"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_COMPLETE_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_COMPLETE_CHALLENGE"
+msgid "You have already completed this challenge"
+msgstr "你已经通过了这个挑战"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_NEXT_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_NEXT_PAGE"
+msgid "This is the last page."
+msgstr "这是最后一页"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_PREV_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_PREV_PAGE"
+msgid "This is the first page."
+msgstr "这是第一页"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_DO_FIGHT"
+msgid "Attempting difficult, yet rewarding challenges."
+msgstr "尝试困难，但奖励丰富的挑战。"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD"
+msgid "You will be rewarded with:"
+msgstr "你会被奖励："
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_CARD
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_CARD"
+msgid "{1#card}"
+msgstr "{1#card}"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_SHILLS
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_SHILLS"
+msgid "{1#money}"
+msgstr "{1#money}"
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_SELECT_FIGHT"
+msgid "Battle Description: {1}"
+msgstr "战斗介绍：{1}"

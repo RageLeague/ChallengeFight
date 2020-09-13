@@ -9,7 +9,7 @@ Convo("CHALLENGE_FIGHT_SELECTION")
                 What are these challenges?
             agent:
                 These are difficult and/or interesting fights added as an optional challenge.
-                They are designed for experienced players who can easily clear prestige 16.
+                They are designed for experienced players who can easily clear prestige 6.
                 You must have a strong deck with a strong synergy to defeat those challenges.
         ]],
         "Ask about the rewards",
@@ -65,7 +65,7 @@ Convo("CHALLENGE_FIGHT_SELECTION")
                 What should we do today?
         ]],
 
-        OPT_ASK = "Ask about...",
+        -- OPT_ASK = "Ask about...",
         DIALOG_ASK = [[
             player:
                 I want to know what I'm getting into...
@@ -82,9 +82,9 @@ Convo("CHALLENGE_FIGHT_SELECTION")
         ]],
         
         OPT_PREV_PAGE = "Previous page...",
-        REQ_PREV_PAGE = "This is the first page.",
+        REQ_PREV_PAGE = "This is the first page",
         OPT_NEXT_PAGE = "Next page...",
-        REQ_NEXT_PAGE = "This is the last page.",
+        REQ_NEXT_PAGE = "This is the last page",
 
         OPT_FIGHT = "Fight!",
         REQ_COMPLETE_CHALLENGE = "You have already completed this challenge",
@@ -122,7 +122,7 @@ Convo("CHALLENGE_FIGHT_SELECTION")
                         cxt:Dialog("DIALOG_DO_FIGHT")
                         page_number = 0
                     end
-                    cxt:Opt("OPT_ASK")
+                    cxt:Opt("OPT_ASK_ABOUT")
                         :LoopingFn(function()
                             if cxt:FirstLoop() then
                                 cxt:Dialog("DIALOG_ASK")
@@ -138,11 +138,11 @@ Convo("CHALLENGE_FIGHT_SELECTION")
 
                     for i = ENTRY_PER_PAGE * page_number + 1, math.min(ENTRY_PER_PAGE * (page_number + 1), #result) do
                         local data = result[i]
-                        local option = cxt:Opt("OPT_SELECT_FIGHT", data.title)
+                        local option = cxt:Opt("OPT_SELECT_FIGHT", data:GetLocalizedTitle())
                             :PreIcon( global_images.combat )
                         
                         if data.desc then
-                            option:PostText( "TT_SELECT_FIGHT", data.desc )
+                            option:PostText( "TT_SELECT_FIGHT", data:GetLocalizedDesc() )
                         end
                         if data.reward and #data.reward > 0 then
                             option:PostText( "TT_REWARD" )

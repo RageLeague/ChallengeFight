@@ -53,9 +53,21 @@ local function OnLoad(mod)
     -- end
 
 end
-
+local function OnPreLoad()
+    for k, filepath in ipairs( filepath.list_files( "ChallengeFight:loc", "*.po", true )) do
+        local name = filepath:match( "(.+)[.]po$" )
+        print(name)
+        if name then
+            local id = filepath:match("([^/]+)[.]po$")
+            print(id)
+            Content.AddPOFileToLocalization(id, filepath)
+        end
+    end
+    print("ChallengeFight added localization")
+end
 return {
     OnLoad = OnLoad,
+    OnPreLoad = OnPreLoad,
     alias = "ChallengeFight",
     version = "0.2.0",
     title = "Challenge Fights",

@@ -7,7 +7,7 @@ for id, data in pairs(Content.GetAllCharacterDefs()) do
         and data.species ~= SPECIES.BEAST and data.species ~= SPECIES.MECH and data.species ~= SPECIES.SNAIL --[[   and data.fight_data.behavior.OnActivate]] 
         and not id:match( "(.*)_PROMOTED$" ) then
         table.insert(ENEMY_IDS,id)
-        print(id)
+        -- print(id)
     end
 end
 print(ENEMY_IDS)

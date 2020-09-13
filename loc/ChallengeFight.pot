@@ -1,0 +1,294 @@
+﻿#: BATTLE_FEATURE.CHALLENGE_INSURANCE.DESC
+msgctxt "BATTLE_FEATURE.CHALLENGE_INSURANCE.DESC"
+msgid "Prevents this fighter from being killed.\nIf this fighter takes lethal damage, prevent that damage and force them to flee."
+msgstr ""
+
+#: BATTLE_FEATURE.CHALLENGE_INSURANCE.NAME
+msgctxt "BATTLE_FEATURE.CHALLENGE_INSURANCE.NAME"
+msgid "Challenge Insurance"
+msgstr ""
+
+#: BATTLE_FEATURE.DISRUPTOR_SUMMONER.DESC
+msgctxt "BATTLE_FEATURE.DISRUPTOR_SUMMONER.DESC"
+msgid "At the end of this fighter's turn, summon an Autodog with {disruptor_pylon} if able."
+msgstr ""
+
+#: BATTLE_FEATURE.DISRUPTOR_SUMMONER.NAME
+msgctxt "BATTLE_FEATURE.DISRUPTOR_SUMMONER.NAME"
+msgid "Disruptor Summoner"
+msgstr ""
+
+#: CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.DESC
+msgctxt "CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.DESC"
+msgid "Defeat the Automech Boss. Except this time, he summons an Autodog every turn that protects him."
+msgstr ""
+
+#: CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.TITLE
+msgctxt "CHALLENGE_DEF.ENHANCED_AUTOMECH_BOSS.TITLE"
+msgid "Enhanced Automech Boss"
+msgstr ""
+
+#: CHALLENGE_DEF.EVERYONES_HERE.DESC
+msgctxt "CHALLENGE_DEF.EVERYONES_HERE.DESC"
+msgid "Defeat each of every generic, non-promoted npc class. And Kalandra, because reasons. The max team size of the opponent is reduced to 3."
+msgstr ""
+
+#: CHALLENGE_DEF.EVERYONES_HERE.TITLE
+msgctxt "CHALLENGE_DEF.EVERYONES_HERE.TITLE"
+msgid "Everyone's Here"
+msgstr ""
+
+#: CHALLENGE_DEF.FOUR_CLOBBERS.DESC
+msgctxt "CHALLENGE_DEF.FOUR_CLOBBERS.DESC"
+msgid "Four heshing Clobbers. Best consumed with high prestige."
+msgstr ""
+
+#: CHALLENGE_DEF.FOUR_CLOBBERS.TITLE
+msgctxt "CHALLENGE_DEF.FOUR_CLOBBERS.TITLE"
+msgid "Four Clobbers"
+msgstr ""
+
+#: CHALLENGE_DEF.FOUR_LUMINARI.DESC
+msgctxt "CHALLENGE_DEF.FOUR_LUMINARI.DESC"
+msgid "Four heshing Luminari. Day[9]'s nightmare. This challenge is actually surprisingly simple."
+msgstr ""
+
+#: CHALLENGE_DEF.FOUR_LUMINARI.TITLE
+msgctxt "CHALLENGE_DEF.FOUR_LUMINARI.TITLE"
+msgid "Four Luminari"
+msgstr ""
+
+#: CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.DESC
+msgctxt "CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.DESC"
+msgid "There's no ninjas in Griftlands, so Mark of the Ninja won't work. Anyway, defeat 3 assassins, sans Eonwe because she doesn't do anything against not-Rook.\nAlso, the two Jakes assassins are really cursed. Be prepared."
+msgstr ""
+
+#: CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.TITLE
+msgctxt "CHALLENGE_DEF.MARK_OF_THE_ASSASSIN.TITLE"
+msgid "Mark of the Assassin"
+msgstr ""
+
+#: CHALLENGE_DEF.MONSTER_KAREN.DESC
+msgctxt "CHALLENGE_DEF.MONSTER_KAREN.DESC"
+msgid "You think Karens are bad? Imagine having to fight monster Karens that constantly spawn kids. Defeat both the Flead Queen and the Shroog!"
+msgstr ""
+
+#: CHALLENGE_DEF.MONSTER_KAREN.TITLE
+msgctxt "CHALLENGE_DEF.MONSTER_KAREN.TITLE"
+msgid "Monster Karen"
+msgstr ""
+
+#: CHALLENGE_DEF.NADAN_VENDETTA.DESC
+msgctxt "CHALLENGE_DEF.NADAN_VENDETTA.DESC"
+msgid "Defeat Nadan and his goons as Nadan seeks out for you blood."
+msgstr ""
+
+#: CHALLENGE_DEF.NADAN_VENDETTA.TITLE
+msgctxt "CHALLENGE_DEF.NADAN_VENDETTA.TITLE"
+msgid "Nadan's Vendetta"
+msgstr ""
+
+#: CHALLENGE_DEF.NATURE_UPRISING.DESC
+msgctxt "CHALLENGE_DEF.NATURE_UPRISING.DESC"
+msgid "Nature is fighting back! Defeat two Grawkits and two Krills."
+msgstr ""
+
+#: CHALLENGE_DEF.NATURE_UPRISING.TITLE
+msgctxt "CHALLENGE_DEF.NATURE_UPRISING.TITLE"
+msgid "Nature's Uprising"
+msgstr ""
+
+#: CHALLENGE_DEF.OMNI_KASHIO.DESC
+msgctxt "CHALLENGE_DEF.OMNI_KASHIO.DESC"
+msgid "Defeat Kashio, by herself, except she has every artifact. Extremely challenging."
+msgstr ""
+
+#: CHALLENGE_DEF.OMNI_KASHIO.TITLE
+msgctxt "CHALLENGE_DEF.OMNI_KASHIO.TITLE"
+msgid "Omni-Kashio"
+msgstr ""
+
+#: CHALLENGE_DEF.UNLIKELY_ALLIANCE.DESC
+msgctxt "CHALLENGE_DEF.UNLIKELY_ALLIANCE.DESC"
+msgid "The Barons and the Rise have decided to put aside their difference and work together. To defeat you. Defeat both leaders and lieutenants!"
+msgstr ""
+
+#: CHALLENGE_DEF.UNLIKELY_ALLIANCE.TITLE
+msgctxt "CHALLENGE_DEF.UNLIKELY_ALLIANCE.TITLE"
+msgid "Unlikely Alliance"
+msgstr ""
+
+#: CHALLENGE_DEF.WORKERS_UPRISING.DESC
+msgctxt "CHALLENGE_DEF.WORKERS_UPRISING.DESC"
+msgid "The proletariat have risen! Put an end to this delusion. Defeat 10 Laborers and 10 Heavy Laborers."
+msgstr ""
+
+#: CHALLENGE_DEF.WORKERS_UPRISING.TITLE
+msgctxt "CHALLENGE_DEF.WORKERS_UPRISING.TITLE"
+msgid "Workers' Uprising"
+msgstr ""
+
+#: CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.DESC
+msgctxt "CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.DESC"
+msgid "The Ollowano dynasty is out for your blood! Defeat Oolo, Foolo, and two Battle Oshnus."
+msgstr ""
+
+#: CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.TITLE
+msgctxt "CHALLENGE_DEF.WRATH_OF_THE_DYNASTY.TITLE"
+msgid "Wrath of the Dynasty"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_ASK
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_ASK"
+msgid "player:\nI want to know what I'm getting into..."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_BACK_OFF
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_BACK_OFF"
+msgid "agent:\nUnderstandable. You should be extremely prepared to even attempt this challenge."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT"
+msgid "player:\nWhat should we do today?"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_LOSE_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_LOSE_CHALLENGE"
+msgid "player:\n!left\nagent:\n!right\nToo bad. Better luck next time!\nTo prevent cheesing experience, you can only attempt this challenge once per day/night.\nTry again later."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_1CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_1CHALLENGE_INFO"
+msgid "player:\nWhat are these challenges?\nagent:\nThese are difficult and/or interesting fights added as an optional challenge.\nThey are designed for experienced players who can easily clear prestige 16.\nYou must have a strong deck with a strong synergy to defeat those challenges."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_2CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_2CHALLENGE_INFO"
+msgid "player:\nWhat's in it for me?\nagent:\nOnce you complete a challenge, you will be rewarded with shills, cards, and/or grafts to empower your deck.\nPlus, it's a bragging right.\nHowever, you will not be rewarded with normal post-fight rewards."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_3CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_3CHALLENGE_INFO"
+msgid "player:\nWhat can I bring with me to complete these challenges?\nagent:\nYou can bring your entire battle deck, including items, as well as your grafts, boons and banes.\nHowever, all battles are no bystander battles, so you can't hire mercenaries or bring your friends to help you fight.\nPets are fine, though."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_4CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_4CHALLENGE_INFO"
+msgid "player:\nWhat are the repercussions to these challenges?\nagent:\nYou are unable to die from these battles, since they are optional.\nIf you are about to die, the last hit will be negated, and you will be forced to flee.\nYou can also flee the battle after turn 3, like normal.\nFleeing might cause your allies to dislike you, but it shouldn't matter that much, since they will retire anyway.\nAny enemy or ally who appear in this fight that does not die will retire.\nSince the battles are isolated, you can kill if you want without consequences.\nEvery enemy and ally are spawned during the battle, even unique ones such as Oolo or Nadan.\nKilling them will have no consequences on the real ones. Probably.\nThere's no reward for killing, though.\nHowever, you will sustain any health loss(or gain, if you healed during battle) from the fight."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_5CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_QUESTION_5CHALLENGE_INFO"
+msgid "player:\nWhen can I attempt these challenges?\nagent:\nYou can attempt these challenges any time you can talk to a working bartender.\nDon't ever think about attempting these challenges when you have all the broken grafts you get from the final encounter.\nYou can attempt each challenge once each day/night, to prevent cheesing experience.\nOnce you complete a challenge, you cannot attempt it again."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_SELECT_FIGHT"
+msgid "agent:\nGet ready!"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_WIN_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_WIN_CHALLENGE"
+msgid "agent:\nWell done! Here are your rewards for completing this challenge."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_BACK_OFF
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_BACK_OFF"
+msgid "Never mind"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_DO_FIGHT"
+msgid "Attempt a challenge..."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_FIGHT"
+msgid "Fight!"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_NEXT_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_NEXT_PAGE"
+msgid "Next page..."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_PREV_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_PREV_PAGE"
+msgid "Previous page..."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_1CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_1CHALLENGE_INFO"
+msgid "Ask about the challenges"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_2CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_2CHALLENGE_INFO"
+msgid "Ask about the rewards"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_3CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_3CHALLENGE_INFO"
+msgid "Ask about what you can bring to the challenge"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_4CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_4CHALLENGE_INFO"
+msgid "Ask about the repercussions"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_5CHALLENGE_INFO
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_QUESTION_5CHALLENGE_INFO"
+msgid "Ask about the opportunities you can attempt these challenges"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.OPT_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.OPT_SELECT_FIGHT"
+msgid "Challenge Battle: {1}"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_ATTEMPTED_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_ATTEMPTED_CHALLENGE"
+msgid "You recently attempted this challenge and cannot attempt this again"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_COMPLETE_CHALLENGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_COMPLETE_CHALLENGE"
+msgid "You have already completed this challenge"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_NEXT_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_NEXT_PAGE"
+msgid "This is the last page."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.REQ_PREV_PAGE
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.REQ_PREV_PAGE"
+msgid "This is the first page."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_DO_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_DO_FIGHT"
+msgid "Attempting difficult, yet rewarding challenges."
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD"
+msgid "You will be rewarded with:"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_CARD
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_CARD"
+msgid "{1#card}"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_SHILLS
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_REWARD_SHILLS"
+msgid "{1#money}"
+msgstr ""
+
+#: CONVO.CHALLENGE_FIGHT_SELECTION.TT_SELECT_FIGHT
+msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.TT_SELECT_FIGHT"
+msgid "Battle Description: {1}"
+msgstr ""
