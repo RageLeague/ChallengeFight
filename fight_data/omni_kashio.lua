@@ -16,6 +16,6 @@ return {
     end,
     reward = {
         {card = "support_beacon"},
-        {money = CHALLENGE_REWARD_MONEY * 3}
+        {money = ChallengeUtil.CHALLENGE_REWARD_MONEY * 3}
     }
 }

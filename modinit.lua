@@ -13,13 +13,15 @@ local function LoadConvoLua( filename )
     return ok, result
 end
 
-local function OnLoad()
+local function OnLoad(mod)
     print("TheGame:GetDebug():CreatePanel( DebugTable( t ))")
+    rawset(_G, "CURRENT_MOD_ID", mod.id)
     local self_dir = "ChallengeFight:script/"
     -- Load conversations
-
+    rawset(_G, "ChallengeUtil", require(self_dir .. "util"))
     require(self_dir .. "additional_battle_defs")
 
+    ChallengeUtil.fight_data = require("ChallengeFight:script/collect_fight_data")
 
     local CONVO_DIR = self_dir..'conversations'
     for k, filepath in ipairs( filepath.list_files( CONVO_DIR, "*.lua", true )) do
@@ -31,24 +33,24 @@ local function OnLoad()
 
     -- Load quests
 
-    for k, filepath in ipairs( filepath.list_files( self_dir.."quests", "*.lua", true )) do
-        local name = filepath:match( "(.+)[.]lua$" )
+    -- for k, filepath in ipairs( filepath.list_files( self_dir.."quests", "*.lua", true )) do
+    --     local name = filepath:match( "(.+)[.]lua$" )
 
-        if filepath:find( "/deprecated/" ) then
-        else
-            if name then
-                package.loaded[ name ] = nil
-                require( name )
-                assert( rawget( _G, "QDEF" ) == nil or error( string.format( "Stop declaring global QDEFS %s", name )))
-            end
-        end
-    end
-    for k, filepath in ipairs( filepath.list_files( self_dir .. "location", "*.lua", true )) do
-        local name = filepath:match( "(.+)[.]lua$" )
-        if name then
-            require(name)
-        end
-    end
+    --     if filepath:find( "/deprecated/" ) then
+    --     else
+    --         if name then
+    --             package.loaded[ name ] = nil
+    --             require( name )
+    --             assert( rawget( _G, "QDEF" ) == nil or error( string.format( "Stop declaring global QDEFS %s", name )))
+    --         end
+    --     end
+    -- end
+    -- for k, filepath in ipairs( filepath.list_files( self_dir .. "location", "*.lua", true )) do
+    --     local name = filepath:match( "(.+)[.]lua$" )
+    --     if name then
+    --         require(name)
+    --     end
+    -- end
 
 end
 

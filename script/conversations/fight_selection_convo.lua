@@ -1,5 +1,3 @@
-CHALLENGE_REWARD_MONEY = 150
-
 local CHALLENGE_FIGHTS = nil
 local ENTRY_PER_PAGE = 4
 
@@ -134,7 +132,7 @@ Convo("CHALLENGE_FIGHT_SELECTION")
                         end)
 
                     if CHALLENGE_FIGHTS == nil then
-                        CHALLENGE_FIGHTS = require "ChallengeFight:script/collect_fight_data"
+                        CHALLENGE_FIGHTS = ChallengeUtil.fight_data
                     end
                     local result = CHALLENGE_FIGHTS
 
@@ -154,7 +152,7 @@ Convo("CHALLENGE_FIGHT_SELECTION")
                                         :PostCard(reward.card,true)
                                 end
                                 if reward.money then
-                                    if reward.money == true then reward.money = CHALLENGE_REWARD_MONEY end
+                                    if reward.money == true then reward.money = ChallengeUtil.CHALLENGE_REWARD_MONEY end
                                     option:PostText("TT_REWARD_SHILLS", reward.money)
                                 end
                             end
