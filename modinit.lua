@@ -1,6 +1,6 @@
 require "quest_def"
 
-MountModData( "ChallengeFight" )
+-- MountModData( "ChallengeFight" )
 
 local filepath = require "util/filepath"
 
@@ -53,5 +53,6 @@ local function OnLoad()
 end
 
 return {
-    OnLoad = OnLoad
+    OnLoad = OnLoad,
+    alias = "ChallengeFight",
 }
