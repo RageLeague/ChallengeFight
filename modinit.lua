@@ -55,6 +55,7 @@ end
 return {
     OnLoad = OnLoad,
     alias = "ChallengeFight",
+    version = "0.2.0",
     title = "Challenge Fights",
     description = [[This mod adds a couple challenge optional battles. These battles are extremely difficult, and should only be attempted by experienced players.
 These challenges can be attempted at any time you can talk to a working bartender at a tavern. That includes Fssh, Hebbel, Sweet Moreef, and the bartender at the Gutted Yote.
