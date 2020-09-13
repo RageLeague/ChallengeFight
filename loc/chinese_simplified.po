@@ -89,7 +89,7 @@ msgstr "刺客之印"
 #: CHALLENGE_DEF.MONSTER_KAREN.DESC
 msgctxt "CHALLENGE_DEF.MONSTER_KAREN.DESC"
 msgid "You think Karens are bad? Imagine having to fight monster Karens that constantly spawn kids. Defeat both the Flead Queen and the Shroog!"
-msgstr "您以为一般的大妈很恶劣？想想如果和能生成崽子的怪兽大妈打会是什么个局面。打败巨蚤王和石洛格！"
+msgstr "您以为一般的大妈很恶劣？想想如果和能生小崽子的怪兽大妈打会是什么个局面。打败巨蚤王和石洛格！"
 
 #: CHALLENGE_DEF.MONSTER_KAREN.TITLE
 msgctxt "CHALLENGE_DEF.MONSTER_KAREN.TITLE"
@@ -172,7 +172,7 @@ msgid ""
 "Understandable. You should be extremely prepared to even attempt this challenge."
 msgstr ""
 "agent:\n"
-"这很好理解。你就算只是尝试这个挑战的话都要准备充分。"
+"这很好理解。你就算只是尝试这个挑战的话都要准备非常充分。"
 
 #: CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT
 msgctxt "CONVO.CHALLENGE_FIGHT_SELECTION.DIALOG_DO_FIGHT"
